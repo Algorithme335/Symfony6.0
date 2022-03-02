@@ -1,9 +1,12 @@
+*** Telecharger le projet
 [Project Symfony.zip](https://github.com/Algorithme335/Symfony6.0/files/8169250/Project.Symfony.zip)
+
+***
 # Symfony6.0
 [Symfony ] Project for Managing a Product Entity containing an image and attributes (Projet [Symfony ] de Gestion d'une Entité Produit contenant une image et des attributs)
 
 
-# Symfony6.0 : Product Entity
+# Product Entity
 
 
 ## Qu'es-ce que Symfony ?
@@ -19,8 +22,10 @@ Vous avez besoin de quelques outils pour faire fonctionner Symfony
 ## Installer Composer
 - (https://getcomposer.org/)
 
-## Installer un serveur web [mamp(MacOs), Xampp(Windows, Linux), Laragon(Windowss)]
+## Installer un serveur web [mamp(MacOs), Xampp(Windows, Linux), Laragon(Windows)]
 - https://www.mamp.info/en/downloads/
+- https://laragon.org/download/index.html
+- https://www.apachefriends.org/download.html
 
 - (facultatif) https://cmder.net/
 ## Setup de Symfony
